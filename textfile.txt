@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 HELLO WORLD
 Halló heimur?
 HEJ VERDEN?
+=======
+HELLO WORLD!
+Halló heimur!
+HEJ VERDEN
+>>>>>>> 5cc1485 (question10)
