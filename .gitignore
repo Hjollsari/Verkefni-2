@@ -1,0 +1,14 @@
+
+.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+*.tmp
+# Ignore temporary files
+*.swp
+*.bak
